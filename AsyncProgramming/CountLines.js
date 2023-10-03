@@ -12,3 +12,4 @@ fs.readFileAsync(filename, { encoding: 'utf8' })
 
 /*
 * UTF-8 specifies how characters are stored as bytes
+*/
