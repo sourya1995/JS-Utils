@@ -1,6 +1,8 @@
 {
   "dependencies": {
     "fs-extra": "^11.1.1",
-    "glob": "^10.3.10"
+    "fs-extra-promise": "^1.0.1",
+    "glob": "^10.3.10",
+    "glob-promise": "^6.0.5"
   }
 }
