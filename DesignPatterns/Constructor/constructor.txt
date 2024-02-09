@@ -1,0 +1,2 @@
+- class based pattern that uses a constructor present in class to create specific objects
+- to create multiple instances of the same template, since instances can share methods but still be different
