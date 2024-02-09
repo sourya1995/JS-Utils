@@ -1,0 +1,4 @@
+- Provides a template to create objects
+- used in complex situations where the type of object needed varies, and needs to be specified in each case.
+- new keyword not used to instantiate the object, so a constructor is not required.
+- instead, a generic interface is provided that delegates the object creation to the corresponding subclass.
