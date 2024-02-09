@@ -1,0 +1,4 @@
+- restricts instantiation of a class to a single object
+- the first time a class is instantiated, an instance of the singleton is created.
+- the second time a class is instantiated, the existing instance of the singleton is returned.
+- services, databases, configurations
