@@ -1,0 +1,4 @@
+- instantiate objects with some default values using an existing object
+- clone the object, and provide existing properties to it. PROTOTYPAL INHERITANCE
+- cloned objects are created by reference, and do not have their own separate copies
+    - creating objects from a DB, whose values are copied over to the cloned object
