@@ -1,0 +1,6 @@
+- provides a constructor to create families of related objects
+- abstract - does not specify concrete classes or constructors
+- reuse or sharing of objects
+- complex logic
+- caching
+- when the object creation is shielded from the client
