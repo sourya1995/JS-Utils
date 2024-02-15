@@ -1,0 +1,4 @@
+- takes common data structures and objects, that are used by a lot of objects and stores them in an external object for sharing
+- intrinsic state - stored in the flyweight object, contains info needed by internal methods of objects
+- extrinsic state - depends on the context of the flyweight
+- used for caching images
