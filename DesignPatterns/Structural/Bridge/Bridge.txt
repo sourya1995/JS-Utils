@@ -1,0 +1,2 @@
+- change class implementation at runtime
+- share implementation between objects

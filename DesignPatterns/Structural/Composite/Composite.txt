@@ -1,0 +1,9 @@
+- Composite pattern used to structure objects in a tree-like hierarchy
+- Each node can have child nodes, or be a leaf
+- leaf objects handle client requests
+- if a component has children, the children handle the request
+- component - abstract class with get, add , remove methods to manage the children
+- composite - subclass, implements the component
+- leaf - subclass, implements the composite
+
+- scalable application with lots of objects
