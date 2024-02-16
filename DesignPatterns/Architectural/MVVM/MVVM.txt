@@ -1,0 +1,2 @@
+- ViewModel has state, operations
+- notifications sent via observer pattern
