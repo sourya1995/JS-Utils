@@ -1,0 +1,4 @@
+- encapsulation of requests and operations into separate objects
+- queue and execute requests at different times
+- keep a history of requests made
+- perform operations such as reset/undo
