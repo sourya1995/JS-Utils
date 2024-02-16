@@ -1,0 +1,1 @@
+- similar or specific operations need to be performed on different objects
