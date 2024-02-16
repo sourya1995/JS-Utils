@@ -1,0 +1,2 @@
+- request sent by a client is received by more than one object
+- these objects either handle the request, or pass it on to the next object
