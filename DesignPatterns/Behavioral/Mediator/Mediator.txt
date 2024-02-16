@@ -1,0 +1,3 @@
+- a mediator acts as a coordinator between different objects
+- use if system has multiple parts that need to communicate
+- avoid tight coupling
