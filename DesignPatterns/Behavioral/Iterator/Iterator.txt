@@ -1,0 +1,1 @@
+- allows us to iterate through various collections sequentially without exposing underlying form
