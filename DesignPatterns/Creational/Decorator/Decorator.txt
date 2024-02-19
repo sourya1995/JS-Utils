@@ -1,3 +1,0 @@
-- add properties, functionality and behavior to existing classes dynamically
-- modify the code without changing original class
-- modify existing functionality
